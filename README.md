@@ -40,26 +40,24 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactnative.dev/">React.Native</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Server and Database</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://firebase.google.com/">Firebase</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Real-Time Technology</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://socket.io/">Socket.io</a></li>
   </ul>
 </details>
 
@@ -67,11 +65,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+- **Send and Recieve the messages**
+- **Share photos and videos**
+- **Persistent Data**
+- **Authentication based Registeration and LogIn**
+- **Real-time chat**
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,15 +80,13 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- Link will be share soon 🎈
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
