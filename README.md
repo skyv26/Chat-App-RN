@@ -1,3 +1,11 @@
+<div style="text-align: center;"><h1>Chat Application</h1></div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -24,11 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 ChatBuddy <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**ChatBuddy** is a minimal clone mobile application just like whatsApp but with minimal features where a person can chat with another person in the network, and can also share image and videos.
 
 ## 🛠 Built With <a name="built-with"></a>
 
