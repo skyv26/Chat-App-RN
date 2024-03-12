@@ -7,5 +7,5 @@ export default function _layout() {
     <View>
         <Slot />
     </View>
-  )
-}
+  );
+};
